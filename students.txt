@@ -1,0 +1,2 @@
+Name, Age, Major
+John, 20, Computer Science
